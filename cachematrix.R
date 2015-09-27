@@ -1,4 +1,4 @@
-## The two functions work together to increse the efficiency of 
+## The two functions work together to increase the efficiency of 
 ## the matrix inversion computation.
 ## Due to the "expensive" hardwork to compute the invesion of matrix, 
 ## it is much more economic to build a programme to first check whether
